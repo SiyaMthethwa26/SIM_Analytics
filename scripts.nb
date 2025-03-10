@@ -1,0 +1,80 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2174,         72]
+NotebookOptionsPosition[      1713,         57]
+NotebookOutlinePosition[      2132,         73]
+CellTagsIndexPosition[      2089,         70]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.950623500029417*^9, 3.950623500029417*^9}, {
+  3.9506236359609566`*^9, 
+  3.9506236507450843`*^9}},ExpressionUUID->"3e4fb012-34f2-4f8d-9275-\
+5a143a091aa8"],
+
+Cell[BoxData[{
+ RowBox[{"//", 
+  RowBox[{"Add", " ", "interactivity", " ", "here", " ", 
+   RowBox[{"(", 
+    RowBox[{
+     RowBox[{"e", ".", "g", "."}], ",", 
+     RowBox[{"form", " ", "validation"}], ",", "animations"}], 
+    ")"}]}]}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"document", ".", "addEventListener"}], 
+   RowBox[{"(", 
+    RowBox[{
+     RowBox[{"'", 
+      RowBox[{"DOMContentLoaded", "'"}]}], ",", 
+     RowBox[{"function", " ", 
+      RowBox[{"(", ")"}], " ", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"console", ".", "log"}], 
+         RowBox[{"(", 
+          RowBox[{"'", "Website", " ", 
+           RowBox[{
+            RowBox[{"loaded", "!"}], "'"}]}], ")"}]}], ";"}], "}"}]}]}], 
+    ")"}]}], ";"}]}], "Input",
+ CellChangeTimes->{{3.9506236628702173`*^9, 3.9506236628702173`*^9}, {
+  3.950623749862833*^9, 
+  3.9506237503653584`*^9}},ExpressionUUID->"4e884ecc-9662-4ede-8205-\
+065fe2dc9048"]
+},
+WindowSize->{583.8, 488.4},
+WindowMargins->{{Automatic, 21}, {4.800000000000068, Automatic}},
+FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (August 22, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"51de5526-00ae-4924-82e3-d7f292c11549"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 205, 4, 28, "Input",ExpressionUUID->"3e4fb012-34f2-4f8d-9275-5a143a091aa8"],
+Cell[766, 26, 943, 29, 86, "Input",ExpressionUUID->"4e884ecc-9662-4ede-8205-065fe2dc9048"]
+}
+]
+*)
+
